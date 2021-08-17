@@ -3,7 +3,7 @@ import React from 'react'
 function Banner() {
     return (
         <div>
-            <h1>this is a banner file</h1>
+            <h1>Thankyou letsupgrade for ths amazing course</h1>
         </div>
     )
 }
